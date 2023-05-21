@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "203463173666",
+    "firebase_url": "https://ieducation-bdbea-default-rtdb.firebaseio.com",
+    "project_id": "ieducation-bdbea",
+    "storage_bucket": "ieducation-bdbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203463173666:android:0c66e6a24ca47b73b00c7b",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203463173666-n0prtclk74022p7bv6emjiif4m8cragd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0czNwiEFPkxT3jL_3ENotSkO1YBP18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203463173666-n0prtclk74022p7bv6emjiif4m8cragd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203463173666:android:845a86987ee1fa93b00c7b",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203463173666-n0prtclk74022p7bv6emjiif4m8cragd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0czNwiEFPkxT3jL_3ENotSkO1YBP18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203463173666-n0prtclk74022p7bv6emjiif4m8cragd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
